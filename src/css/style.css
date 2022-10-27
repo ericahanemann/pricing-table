@@ -130,6 +130,12 @@ main #plans {
     padding: 0 30px;
 }
 
+.plan-template .plan-description .divider {
+    height: 1px;
+    background-color: var(--gray);
+    margin-bottom: 10px;
+}
+
 .plan-template .plan-description .description-item {
     display: flex;
     gap: 15px;
